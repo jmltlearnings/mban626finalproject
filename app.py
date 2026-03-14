@@ -185,7 +185,6 @@ filtered = df[
 
 # ── Header ────────────────────────────────────────────────────────────────────
 st.title("🏥 Hospital Analytics Dashboard")
-st.caption("MBAN626 Dashboard Project · AI and Data Analytics Strategy · 2T 2025–2026")
 st.markdown("---")
 
 # ── KPI Cards ─────────────────────────────────────────────────────────────────
@@ -364,4 +363,4 @@ else:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
-st.caption("MBAN626 · Hospital Analytics Dashboard · Data: Kaggle (prasad22/healthcare-dataset) · API: disease.sh")
+st.caption("MBAN626 · Hospital Analytics Dashboard · Data: Kaggle (prasad22/healthcare-dataset) · API: ")
