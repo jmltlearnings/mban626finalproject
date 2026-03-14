@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+matplotlib
+seaborn
+plotly
+streamlit
+voila
+nbconvert
+jupyter
+ipywidgets
