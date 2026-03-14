@@ -363,4 +363,4 @@ else:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.markdown("---")
-st.caption("MBAN626 · Hospital Analytics Dashboard · Data: Kaggle (prasad22/healthcare-dataset) · API: ")
+st.caption("MBAN626 · Hospital Analytics Dashboard · Data: Kaggle (prasad22/healthcare-dataset) · API: disease.sh")
